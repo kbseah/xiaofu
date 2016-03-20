@@ -71,6 +71,8 @@
 ``A girl was married off to someone from another village. When she came back to visit her parents, her mother asked: "Do they have the same customs in the other village?" She replied: "Only that they use pillows differently. In our village we put them under our heads. Over there they put them under the hips." 
 ＊＊抹唾
 新婚。壻恐婦苦難。以唾抹之。婦曰。原來［鄉］方䖏々別。我那邊男風便用唾［64］
+``**Spit
+``A newly married couple were spending their first night together. The groom was worried that the bride would find entry difficult, so he rubbed on some spit. The wife remarked, "I didn't realize how every village has its own practices. In our village, it's the gay men who use spit this way."
 ＊＊蝦
 蝦能助陽。子方欲下箸。母遽云這留與父親喫罷。子問曰。父親何故要喫他。母曰我兒子。你直待討了新婦自然曉得。
 ``**Prawns
@@ -128,6 +130,8 @@
 問如何方穩生男。紿之者曰。并二子納戶中。無不胎矣。夜如其言。納左則右出。納右則左復出。恨曰。便生出兒子來。也是箇強種了。不如罷休。［74］
 ＊＊藥名
 一人久客歸。妻已育三子矣。訝其何以不夫而孕。妻曰。思君之極。當是結想所成。故命名皆有深意。長曰。遠志。想你出行也。次曰。當歸。想你歸也。又次曰。茴［鄉］。想你回也。夫曰。我若再做幾年客。家裡開得一箇生藥舖了。
+``**Name of the game
+``A man returned from a long sojourn abroad, and was shocked to find that his wife had borne three sons, He asked her how she could get pregnant while her husband was away. She replied, "I thought of you so much and so deeply, that I got pregnant just from force of will. The names that I gave your sons reflect the depths of my feeling. The oldest is named Yuanzhi (Distant Will), because I thought about you being on the road. The srcond is named Danggui (Do Return), because I thought about you coming back. The youngest is named Huixiang (Return Home), because I thought about your return." The husband said, "if I were to spend a few more years on the road, we could open here a shop for pregnancy potions."
 今正開生藥舖。足下亦是一物。問何物。曰。敗龜板。
 ＊＊官話
 ［75］有好闞者。妻謂之曰。我看妓家容貌。也只平常。你愛他有甚好䖏。夫曰。我愛他官話說［聽］耳。妻即應云。這也何難。
@@ -146,7 +150,8 @@
 ＊＊訟奸
 有婦訴官云。往井汲水。被人從後淫污。官問云。那時［77］汝何不立起。荅曰。若立起。恐忒了出來耳。
 ＊＊雍熙寺僧
-雍熙寺和尚。奸一婦。々呼四隣來救。和尚曰。本寺從無四隣。東是大帝廟。西是城隍廟耳。婦乃連呼廟々｛｛廟同妙｝｝。
+{{gg/雍熙寺/gg}和尚。奸一婦。々呼四隣來救。和尚曰。本寺從無四隣。東是大帝廟。西是城隍廟耳。婦乃連呼廟々｛｛廟同妙｝｝。
+``A monk at the Yongxi Temple was assaulting a woman, and she cried out to the neighbors for help. The monk said, "there is no one living next to this temple. To the east is the temple (miao) to the Emperor of Heaven, to the west is the temple to the City God. You are only crying out 'miao miao' ('wonderful')." #wordplay
 ＊＊頭婚妾
 一人娶妾。必欲求䖏子。或教之曰。初夜但以卵示之。若不識者。真䖏子矣。如其言。握以問妾。々曰。柳齊也。怒曰。號都曉得不真不真。逐去之。再娶一女。問如前。［78］以此物對。又怒曰。表都曉得。一發不真。復逐去。最後娶一年極少者。問如前。曰。我不識。曰。此卵也。其女曰。不信道卵是這一點々兒。
 ``**Virgin concubine
