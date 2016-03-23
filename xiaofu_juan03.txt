@@ -30,23 +30,31 @@
 ``A poor fisherman used his net as a blanket in the winter. In the middle of the night, he poked his finger through the net, and said to himself: "On such a cold night as this, it must be so hard on those who don't have blankets. I wonder how they can survive."
 ＊＊借債
 有持券借債者。主人曰。不須券。只畵一幅行樂圖來可也。問其故。曰。怕日後討債時。不是這般面孔耳。
+``**Debt
+``A debtor went looking for a loan. The creditor said to him, "I don't need a loan certificate. All I ask for is a portrait of you." When asked why, he replied, "I fear that when I go to collect on the debt, you won't be showing this face to me."
 ＊＊戴笆斗
 有避債者。偶以事出門恐人見之。乃頂一笆斗而行。［73］為一債家所識。殚其斗曰。所約如何。姑應曰。明日。已而雨大作。斗上㸃擊無美。其人荒甚。乃曰。一㮣明日。
 ＊＊說出來
-一人為索道者索苦。辭之不去。乃曰。你定要我說出來麼。索道者疑其道已心病嘿然而去。如此數次。一日發狼曰。由你說出來罷。我不怕你。其人又曰。真箇要我說出來。曰真要你說。曰。不還了。
+一人為索逋者索苦。辭之不去。乃曰。你定要我說出來麼。索逋者疑其道已心病嘿然而去。如此數次。一日發狠曰。由你說出來罷。我不怕你。其人又曰。真箇要我說出來。曰真要你說。曰。不還了。
+``**Say it out loud
+``A creditor was having a hard time collecting a debt. When he pressed the debtor, he instead got the reply, "do you really want me to say it out loud?" Feeling uneasy at this, the creditor sighed and went away. This happened several times, until one day he decided to buckle down and insist, saying, "just say it out loud, I'm not afraid of you." Whereupon the debtor replied, "do you really want me to say it?" "Just say it." "I'm not paying you back."
 ＊＊說夢
 ［74］欠債者謂討債者曰。我命不久矣。昨夜夢見身［死］。討債者曰。陰陽相反。夢死反得活也。欠債者曰。還有一夢。々見還了你的債。
 ``**Interpreting dreams
 ``A debtor told his creditor: "I don't have long to live. Last night, I dreamed that I was dead." The creditor replied: "Dreams are the inverse of reality. Dreaming about your death means that you'll live." The debtor said: "Oh there was one more dream. I dreamed that I paid back my debt."
 ＊＊坐椅
 一家索債人多。椅俱占滿。更有坐檻上者。主人私于坐檻者曰。汝明日早來。坐檻者意其先完己事。乃揚言以散衆人。次日黎明即往。叩其相約之意。荅曰。早來可先占把交椅。［75］
+``**Chairs
+``A household had so many creditors seeking payment, that all their chairs were occupied, and some were even sitting on the threshold. The householder spoke privately with those sitting on the threshold, saying, "why don't you come back early tomorrow?" They thought that this meant he would resolve their business at this time, and so chattering among themselves, they dispersed. The next day at dawn, they came to the house. Knocking on the door, they expressed their intentions. Instead, they were told, "I meant that if you came early you would get to sit in a chair."
 ＊＊保債
 有負債者。為債主人所逼。自投眢井。債主人恐甚。呼之出。曰吾不出矣。出。無以償汝。債主人曰。即出。當為你焚券。曰。甚善。雖然。我不出矣。吾家貧甚。債主人曰。即出。當為尔綃致錢粟。又曰。甚善。雖然。吾猶不出也。吾有好友。貧更甚。汝必貸以十金。債主人曰。吾為惠于尔足矣。何能及尔友乎。曰。苐貸之。有我在不妨。
 ＊＊轉債
 ［76］一人借銀五兩。約四分起利。滿十月。應還七兩矣。謂債主人曰。目下來不及。汝找三兩與我。轉十兩文契罷。從之。又十月。應還十四兩矣。又曰今年也來不及。加我一兩轉十五兩罷。債主以所找甚寡。復勉從之。再十月。應還二十一兩矣。及往索。又乞找四兩。轉二十五兩。債主有難色。其人便怒曰。我那一年本利不清。你直如此作難。
 ＊＊扛
 ［77］有欠債屢索不還者。主人怒。命僕軰潛伺。扛之以歸至中途。僕暫歇。其人謂僕曰。快走罷。歇在此。又被別家抗去。不關我事。
-舊話云。㝠王命拘蔡青。鬼卒誤以為債精也。拘至案。王知。其謬。命放囘。債精曰。此䖏權借一躲。其寔不須去了。扛他去者。亦恐不易打發。
+``**Taken
+``There was a debtor who repeatedly refused to honor his debt. The creditor was furious, and sent a servant to kidnap him. While carrying him back, the servant took a break by the road. The debtor said to him, "you'd better hurry along. If you dally here, and someone else manages to grab me, it's not my problem."
+舊話云。{{nn/㝠王/nn}}命拘蔡青。鬼卒誤以為債精也。拘至案。王知。其謬。命放囘。債精曰。此䖏權借一躲。其寔不須去了。扛他去者。亦恐不易打發。
 ＊＊小欠
 有小欠者。每索。必辭以不在家。一日又辭。索者識其［78］音。正欠主也。曰。汝在家。如何囘我。應曰。我非某人。乃其親春耳。索者濕破紙窓。認出之。其人即大怒曰。所欠。幾何而壞吾窓也。俟補好。當還汝。索者曰。是不難。即為補訖。復索之。應曰。如今又不在家了。
 相傳此為祝京兆枝山回魚錢事。京兆有債僻。每肩與出。則索逋者纍々相随。盖債家謂不往索。恐其復借而京兆亦恬然不為恠也。嘗托言款客。往友家借銀鑲鐘數事。既借。主人心疑。遣僕随其與［79］察之。則己汲々擗銀而棄胚于外矣。僕追止之。京兆曰。借我。即我物也。汝欲用。亦拿一兩事去。不妨。又嵗盡。乏用。遍走柬于所親知。托言弔喪。借得白圓領共五十餘件。并付質庫。［過］嵗首。諸家奴雲集。則皆索白圓領者也。覔典票。已失之矣。事極可笑。然于京兆不妨奇品。
@@ -60,11 +68,11 @@
 ``A beggar accumulated two wine bottles full of millet, and considered himself to be rich. One day, he went to the market with a companion. Along the way he overheard someone saying that he had stored up three hundred tons of grain. The beggar stepped on his friend's foot and said: "You hear that? What a liar! I don't believe that anyone can have that many wine bottles at home."
 ＊＊又
 ［81］一乞兒戒食狗肉。衆丐勸之。必不可。曰。我戒之久矣。衆曰。你便戒他。々倒不戒你。
-``**One more...
+``**Beggar (2)
 ``A beggar gave up eating dog meat. The other beggars told him that he couldn't do that. He said: "I've given it up for a long while." They replied: "You may have given it up, but it hasn't given you up."
 ＊＊又
 一乞兒病腿爛。卧金剛腳下。狗往●＝左‘食’右‘舌’＝之。乞兒曰。畜生。直恁性急。我［死］後少不得都是你的。
-``**One more...
+``**Beggar (3)
 ``A beggar had a lame leg, and so hid his gold under that leg. His dog went to sniff at it, and the beggar said: "Stupid beast! What's the rush? When I die, all of it will be yours anyway."
 或述此笑話云。是嘲敗子者。余曰。還是嘲敗子之父。或問何說。余曰。他做人家忒呌化樣了。定然養出這等畜生來。［82］
 ＊＊初靠
