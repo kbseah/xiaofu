@@ -21,7 +21,7 @@ Extended with a number of additional tags:
 
 =over 8
 
-=item `` 
+=item ``
 
 (at beginning of line) Translation
 
@@ -53,6 +53,10 @@ Page number in source text
 
 Editorial comment not in source text
 
+=item {l/ ... /l <URL>}
+
+Hyperlink; note space before the URL begins
+
 =back
 
 =head1 COPYRIGHT AND LICENSE
@@ -66,6 +70,7 @@ Copyright (c) 2016, Brandon Seah (kb.seah@gmail.com)
 # Index names of literary works too
 # Sort index and duplicate entries
 # Tooltip editorial comments or show-hide them
+# For extended tags - allow two versions - display text and indexed text (e.g. variant names, abbreviations)
 
 # Draft specification for extended Ctext markup
 
@@ -128,7 +133,8 @@ my %xtags_toindex = (
     gg => 'Geographical names',
     dd => 'Dates',
 );
-my @xtags = qw(nn gg dd pg v ed); # List of extended tags
+my @xtags = qw(nn gg dd pg v ed l); # List of extended tags
+my @content_xtags = qw(ed l); # Tags with content fields
 my @output; # array to store lines for HTML body
 my %current_header;
 
@@ -194,6 +200,12 @@ while (<IN>) {
         # Replace the markup tags with html span tags in an evaluated regex
         $line =~ s/\{$tag\/(.*?)\/$tag\}/$p1.$tagid{$tag}++.$p2.$1.$p3/ge;
     }
+    
+    # Convert hyperlinks
+    my $p1 = "<a href=\"";
+    my $p2 = "\">";
+    my $p3 = "</a>";
+    $line =~ s/\{l\/(.*?)\/l\s+(.*?)\}/$p1.$2.$p2.$1.$p3/ge;
     
     # Convert remaining tag types (must be done in order, but not indexed)
     $line = ConvertMarginalNotes($line);
