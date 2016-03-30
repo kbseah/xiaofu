@@ -221,7 +221,10 @@
 ＊＊好乘馬
 有好乘馬者為人所欺。以五十金易一馬。駑甚。不堪策。乃賃舟載馬。而身跨其上既行里許。嫌其遲。謂舟子曰。我買酒請你。與我快些搖。我要出一箇轡頭。
 ＊＊好古
-一富人素性好古。或偽以舜所造漆碗。周公撻伯禽之一杖。孔子杏壇所坐之席。求售。各以千金得之。襄貲既空。乃左執虞舜之碗右持周公之杖。身披孔子之［207］席。行乞于市曰。求賜太公九府錢一文。
+`**Antique lover
+一富人素性好古。或偽以{nn/舜4nn}所造漆碗。{nn/周公/nn}撻{nn/伯禽/nn}之一杖。{nn/孔子/nn}{gg/杏壇/gg}所坐之席。求售。各以千金得之。襄貲既空。乃左執虞舜之碗右持周公之杖。身披孔子之［207］席。行乞于市曰。求賜太公九府錢一文。
+`A rich man was by nature fond of antiques. Someone offered him a bowl supposedly made by Shun, the cane that the Duke of Zhou used to whack Bo Qin (his son), and the mat that Confucius sat upon at the Apricot Altar, asking a thousand pieces of gold for each of them. After paying for all these things he had nothing left, and so he took Shun's bowl in his left hand, the Duke of Zhou's cane in his right, and draped Confucius' mat over his body, and went along to beg at the marketplace, saying: "please spare this old sir some cash."
+``Giles, 208
 ＊＊好內
 `**Lustful
 或問好色者曰。世間何事最樂。荅曰。行房最樂。又問既行房後。還有甚樂。沈吟曰。除是再行。
