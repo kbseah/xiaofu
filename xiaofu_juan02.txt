@@ -1,37 +1,37 @@
 ＊笑府卷二
-``*Chapter 2
+`*Chapter 2
 ＊＊腐流部
-``**Decadence and decay
+`**Decadence and decay
 墨憨子曰。人有恆言。曰腐儒。腐儒。言朽敗不任也。朽敗不任。何以儒為。勝國區民。八娼。九儒。十丐。夫列于娼之下。丐之上者。今之儒是己。直是可涕可悲。豈直可笑而已哉。集腐流部。
-``The Master of Mohan Studio says: There is a common phrase "rotten scholar", that refers to those whose values are decayed and who are untrustworthy. With decayed values and untrustworthiness, how can they be called Confucian scholars? In the classification of society, eighth are the prostitutes, ninth the scholars, and tenth the beggars. So scholars rank below prostitutes but above beggars. Today's scholars are thus - worthy of our sorrow and pity, and not just our laughs. 
-``(The ranks of society referred to above are, in full: officials, court functionaries, Buddhist monks, Taoist priests, physicians, craftsmen, hunters, prostitutes, Confucian scholars, and beggars. Some variants of this list exist: see {l/this page/l http://baike.baidu.com/view/215358.htm}. The original version is from the Song text 郑恩肖{l/《心史》/l http://ctext.org/library.pl?if=en&file=98130&page=172} but there may be differences between editions.)
+`The Master of Mohan Studio says: There is a common phrase "rotten scholar", that refers to those whose values are decayed and who are untrustworthy. With decayed values and untrustworthiness, how can they be called Confucian scholars? In the classification of society, eighth are the prostitutes, ninth the scholars, and tenth the beggars. So scholars rank below prostitutes but above beggars. Today's scholars are thus - worthy of our sorrow and pity, and not just our laughs. 
+`(The ranks of society referred to above are, in full: officials, court functionaries, Buddhist monks, Taoist priests, physicians, craftsmen, hunters, prostitutes, Confucian scholars, and beggars. Some variants of this list exist: see {l/this page/l http://baike.baidu.com/view/215358.htm}. The original version is from the Song text 郑恩肖{l/《心史》/l http://ctext.org/library.pl?if=en&file=98130&page=172} but there may be differences between editions.)
 ＊＊老童生
-``**Old student
+`**Old student
 虎出山而回。呼肚饑其黨曰。今日固不遇一人乎。對［30］曰。遇而不食。問其故。對曰。始一和尚來。因䏲氣不食。次一秀才來。因酸氣不食。最後一童生來。亦不曾食。問童生何為不食。曰。怕咬傷了牙齒。
-``A tiger returned from a day out on the mountain. Upon hearing its stomach rumbling, its companion said: "Didn't you encounter a single person today?" The first tiger said: "I met some but didn't eat them." The second asked why. The first replied: "First there was a monk who came by, but he stank and I couldn't bear to eat him. Then there was a graduate (xiucai) who came by, but he had a sour smell and I couldn't bear to eat him. Last there was a student (tongsheng) who came by, but I had even less interest in eating him." When asked why he didn't eat the student, he said: "I didn't want to injure my teeth." (Giles, 39b)
+`A tiger returned from a day out on the mountain. Upon hearing its stomach rumbling, its companion said: "Didn't you encounter a single person today?" The first tiger said: "I met some but didn't eat them." The second asked why. The first replied: "First there was a monk who came by, but he stank and I couldn't bear to eat him. Then there was a graduate (xiucai) who came by, but he had a sour smell and I couldn't bear to eat him. Last there was a student (tongsheng) who came by, but I had even less interest in eating him." When asked why he didn't eat the student, he said: "I didn't want to injure my teeth." (Giles, 39b)
 末句。舊云筋骨老凝不堪食。少蘊籍。年少童生須仔細防老虎。
-``A final word: The old saying is that old and sinewy bones and tendons are not fit for eating. That's no surprise. Young students should carefully guard against tigers. 
+`A final word: The old saying is that old and sinewy bones and tendons are not fit for eating. That's no surprise. Young students should carefully guard against tigers. 
 ＊＊又
-``**Old student (2)
+`**Old student (2)
 縣官考童生。傍晚。忽聞厰角喧閙。問之。門子稟云。童子拿差了拄拐。在那裡認。［31］
-``A county official was administering an examination for students (tongsheng). In the late evening, there was suddenly a loud commotion in a corner of the examination hall. He asked what was going on, and a doorman reported: One of the students had taken the wrong walking-stick by mistake, and they were sorting it out among themselves.
+`A county official was administering an examination for students (tongsheng). In the late evening, there was suddenly a loud commotion in a corner of the examination hall. He asked what was going on, and a doorman reported: One of the students had taken the wrong walking-stick by mistake, and they were sorting it out among themselves.
 ＊＊未冠
-``**Unsuccessful
+`**Unsuccessful
 童子有老而未冠者。考官問之。以孤寒無網巾對。官曰。只你一嘴鬍髯。勾結網矣。對曰。新冠不好帶得白網巾。
-``A student was advanced in years but had never passed the examinations. The examination official asked him why, and he replied: "Because I am a poor orphan who cannot afford the cap." The official said: "You have a full beard around your mouth, that hair should be enough to weave a cap." The student replied: "It wouldn't be seemly for a new graduate to wear a white cap (indicating mourning)." 
-``(Giles, 42)
+`A student was advanced in years but had never passed the examinations. The examination official asked him why, and he replied: "Because I am a poor orphan who cannot afford the cap." The official said: "You have a full beard around your mouth, that hair should be enough to weave a cap." The student replied: "It wouldn't be seemly for a new graduate to wear a white cap (indicating mourning)." 
+`(Giles, 42)
 ＊＊包巾
-``**Scarf
+`**Scarf
 老童生臨死。見子孫滿前。嘱曰。我殮時。若帶帽枉却一生讀書。若帶巾又恐僣分。因嘆氣曰。仍以包巾束髮罷。［32］
-``An old pupil (tongsheng) was close to death, with his sons and grandsons gathered around him. He told them: "When I am dressed for burial, if I wear a commoner's hat it would be a waste of my entire life of study, but if I wear a scholar's cap it would be a presumption to a status I haven't earned." He sighed and continued: "So just wrap up my hair in a scarf."
+`An old pupil (tongsheng) was close to death, with his sons and grandsons gathered around him. He told them: "When I am dressed for burial, if I wear a commoner's hat it would be a waste of my entire life of study, but if I wear a scholar's cap it would be a presumption to a status I haven't earned." He sighed and continued: "So just wrap up my hair in a scarf."
 ＊＊得頭
 或問童生之父曰。令郎卷面遍。已許取乎。曰。縣尊極愛小兒卷。得頭不已。問如何得頭。乃搖首曰。是橫得。
 ＊＊儒學碑
 儒學碑亭新完。一士［攜］妓往視。見負重。戲謂妓曰。汝父在此。何不拜。妓即下拜云。我的爺。看你這等蹭蹬何時能出學門。
-``(bowdlerized by Giles, no. 25)
+`(bowdlerized by Giles, no. 25)
 ＊＊德行
 ［33］士有好飲宿娼。而賄得德行者。或嘲之曰。聞顏子有負郭田三十頃。如何得窮。一人曰。他簞｛｛單｝｝食｛｛是｝｝瓢飲。所以窮了。又一人曰。闞飲到去不多。都買了德行頭兒。
-``#wordplay
+`#wordplay
 单是闞飲。不得不買德行頭兒矣。
 ＊＊喫糧
 {nn/孔子/nn}絕粮于陳。命顏回往回々國借粮。以其名與國●＝𣚧缺木＝相同。兾有情熟。比往通訖。大怒曰。汝孔子要攘夷［34］秋。恠俺回々。連你也罵着。說回之為人也擇｛｛賊｝｝乎。粮斷不與。顏子怏々而歸。子貢請往。自稱平昔奉承。常曰賜也何敢望回々。羣回大喜。以曰粮一擔。先今携去。許以陸續送用。子貢歸。述諸孔子。孔子攢眉曰。粮便騙了以擔。只是文理不通。
@@ -61,27 +61,27 @@
 一秀才慣賠賔。忽逢嵗考。聞出恭擊雲板聲。認謂弔客至矣。急趋出。遂以犯規受責十下。起謂行杖者曰。起動你。打錢去司喪房裡支了罷。
 吳下二十年前。凡有喪者。必惜重儒中陪客。適值［41］嵗考。諸生俱往。乃請一勅封秀才｛｛謂鄉賢｝｝一原任秀才｛｛謂已黜｝｝承乏。有同事者作口［號］嘲之曰。昨日某家陪賔走出兩頂儒巾。一頂虚田寔契一頂產去粮存時傳以為笑譚云。
 ＊＊窮秀才
-``**Poor scholar
+`**Poor scholar
 有初［死］見㝠王者。{nn/㝠王/nn}謂其生前受用太［過］。判來生做一秀才。與以五子。吏禀曰。此人罪重。不應如此善。遣王笑曰。一箇窮秀才。許多兒子。活累殺他罷了。［42］
-``A man was facing Hades soon after his death. The Lord of Hell said to him: "You have done much wrong in your life. I decree that you shall be reborn as a scholar (xiucai) and that you shall have five sons." The lord's lackeys said to him: "This man has done great wrong! He doesn't deserve such generosity!" Whereupon the lord laughed and said: "For a poor scholar to have so many sons to feed will be punishment enough." 
+`A man was facing Hades soon after his death. The Lord of Hell said to him: "You have done much wrong in your life. I decree that you shall be reborn as a scholar (xiucai) and that you shall have five sons." The lord's lackeys said to him: "This man has done great wrong! He doesn't deserve such generosity!" Whereupon the lord laughed and said: "For a poor scholar to have so many sons to feed will be punishment enough." 
 ＊＊頌屁
 一士［死］見冥王。々忽撒一屁。士即拱揖進辭云。伏惟大王。高聳尊臋。洪宣寶屁。依稀絲竹之音。彷彿麝蔄之氣。王大喜。命牛頭卒引去別殿。賜以御宴。至中途士頋牛頭卒謂曰。看汝兩角夸々。好似天邉之月。雙宴尚早。先在家下吃箇酒頭了去。
 酷盡好䛕情狀。［43］
 一說云。一秀才［死］。見冥王。自陳文才甚敏。王偶撒一屁。士即進詞云々。王喜。命延壽一年。至期［死］。復詣王。適王退衙。鬼卒報有秀才求見。王問何人。鬼卒曰。就是那做屁文字得秀才。
-``Another version says that a xiucai graduate died, and came before the Lord of Hell. The graduate said that his own literary abilities were very sharp. When the Lord of Hell by chance let out a fart, the scholar promptly came up with a verse like the one above. The Lord of Hell was glad and granted him one more year of life. When he died for the second time, he was once again brought to the Lord of Hell. This time the Lord of Hell was not at court. One of his demonic minions came to report that a xiucai graduate was here to see him. He asked which one, and the minion said: "The one who writes stinky verses." 
+`Another version says that a xiucai graduate died, and came before the Lord of Hell. The graduate said that his own literary abilities were very sharp. When the Lord of Hell by chance let out a fart, the scholar promptly came up with a verse like the one above. The Lord of Hell was glad and granted him one more year of life. When he died for the second time, he was once again brought to the Lord of Hell. This time the Lord of Hell was not at court. One of his demonic minions came to report that a xiucai graduate was here to see him. He asked which one, and the minion said: "The one who writes stinky verses." 
 ＊＊名讀書
 車胤囊螢讀書。孫康映雪讀書。一日康往拜胤。不遇問何往。門者曰。出外捉螢火䖝去了已而胤答拜康。見康閒立庭中。問何不讀書。康曰。我看今日這天不［44］像箇下雪的。
 ＊＊謁孔廟
 有以財入泮者。拜謁孔廟。孔子下席荅之。士曰。今日是夫子弟子。禮應坐受。孔子曰。你是我孔方兄的弟子。不敢受拜。
 未申年。𡻕凶新例。許納穀以助貧儒。即批入泮。或嘲之云。衆秀才在明倫堂。見以穀秀至。遙指曰。鵞頭來矣。｛｛俗謂騃子曰鵞頭｝｝穀秀曰。你便鵞頭。衆曰。笑你費［45］了許多家財。嵗考依舊無用。故曰鵞頭。我等如何是鵞頭。荅曰。不是鵞頭。如何吃我的穀。
 ＊＊教官辭朝
-``**The education official at court
+`**The education official at court
 教官辭朝。見象。看之。不覺出神。人問之。荅曰。我想祭祀猪有這般大便好。
-``An education official was visiting the imperial court when he saw an elephant. As he looked, he could not help but be fascinated. Someone asked him why, and he replied: "Wouldn't it be wonderful if our sacrificial pigs were as big as that!" (Giles, 18)
+`An education official was visiting the imperial court when he saw an elephant. As he looked, he could not help but be fascinated. Someone asked him why, and he replied: "Wouldn't it be wonderful if our sacrificial pigs were as big as that!" (Giles, 18)
 ＊＊上任
 嵗貢選教職。初上任。其妻進衙便大哭。夫驚問之。妻曰。我巴你到今日。只道出了學門。誰知反進了學門。［46］
-``**Duty
-``An official was chosen to serve as an education official. When he went to assume his new duties, his wife started crying as soon as they entered their official residence. Her husband was shocked, and asked why, and she replied: "I've stuck with you until today, when you made it out of the examination hall. But now you've gone back in again!"
+`**Duty
+`An official was chosen to serve as an education official. When he went to assume his new duties, his wife started crying as soon as they entered their official residence. Her husband was shocked, and asked why, and she replied: "I've stuck with you until today, when you made it out of the examination hall. But now you've gone back in again!"
 ＊＊公子厮打
 教官公子。與主簿公子厮打。教官公子屢負。訴其父云。不知他吃甚東西。直恁有力。教官訪之。聞彼每日吃肉。歸謂其子曰。我兒不要忙。祭［過］了丁。與他厮打便了。
 ＊＊問館
@@ -91,18 +91,18 @@
 ［48］猫趕鼠。々廹甚。走區竹轎扛中。猫頋之。嘆云。看你管｛｛館｝｝便進了。這幾箇節如何［過］得。
 偏是這幾箇節好［過］有羨先生賺自在錢者。先生云。分明是箇松柴。逢節方有此油水。
 ＊＊登廁
-``**Going to the toilet
+`**Going to the toilet
 一學徒將入廁。問先生曰。欲登廁否。先生曰。我也有這箇意思汝且先往。徒去。值先有人在廁。遽返。先生問曰。何為遽返。曰。又有一箇有意思如先生者在裡［49］而。
-``A student wanted to use the toilet, and asked his master if he could go. The master said: "I also have that intention, but you may go first." The student went, but found that someone was already in there, and so returned. The master asked: "Why are you back so soon?" The student replied: "There was already another there with the same intention as you, sir." 
+`A student wanted to use the toilet, and asked his master if he could go. The master said: "I also have that intention, but you may go first." The student went, but found that someone was already in there, and so returned. The master asked: "Why are you back so soon?" The student replied: "There was already another there with the same intention as you, sir." 
 ＊＊晝寢
-``**Napping
+`**Napping
 一師晝寢。及醒。謬言曰。我乃夢{nn/周公/nn}也。明晝。其徒効之。師以界方擊醒。曰。汝何得如此。徒曰。亦往見周公耳。師曰周公何語。荅曰。周公說昨日並不曾會尊師。
-``A teacher was napping in the daytime. When he woke up, he lied, saying: "I was just dreaming of the Duke of Zhou." The next day, his student also started napping, but the teacher woke him up sharply, saying: "Why are you napping in the day?" The student replied: "I just went to see the Duke of Zhou." The teacher asked him what the Duke said, and he replied: "The Duke said that he didn't meet you yesterday, sir." 
-``This is a reference to the Analects, Shu Er 5. "The Master said: 'How grieved I am that for such a long time I have not dreamed of the Duke of Zhou!'" （子曰：「甚矣吾衰也！久矣吾不復夢見周公。」）
+`A teacher was napping in the daytime. When he woke up, he lied, saying: "I was just dreaming of the Duke of Zhou." The next day, his student also started napping, but the teacher woke him up sharply, saying: "Why are you napping in the day?" The student replied: "I just went to see the Duke of Zhou." The teacher asked him what the Duke said, and he replied: "The Duke said that he didn't meet you yesterday, sir." 
+`This is a reference to the Analects, Shu Er 5. "The Master said: 'How grieved I am that for such a long time I have not dreamed of the Duke of Zhou!'" （子曰：「甚矣吾衰也！久矣吾不復夢見周公。」）
 ＊＊又
-``**Napping (2)
+`**Napping (2)
 {nn/夫子/nn}責{nn/宰予/nn}以朽木糞土。宰予不服曰。吾自要見周公。如何怪我。夫子曰。日間豈是夢周公時候。宰予曰。［50］周公也不是夜間肯來的人。
-``The Master (Confucius) rebuked Zai Yu for napping in the daytime, being like rotten wood and dirty earth (reference to the Analects, Gong Ye Chang 10). Zai Yu was unsatisfied, and said that he wanted to meet the Duke of Zhou. The Master said, "even then, the daytime is not the time for dreaming of the Duke of Zhou." Zai Yu retorted, "the Duke is not someone who is willing to make housecalls in the night."
+`The Master (Confucius) rebuked Zai Yu for napping in the daytime, being like rotten wood and dirty earth (reference to the Analects, Gong Ye Chang 10). Zai Yu was unsatisfied, and said that he wanted to meet the Duke of Zhou. The Master said, "even then, the daytime is not the time for dreaming of the Duke of Zhou." Zai Yu retorted, "the Duke is not someone who is willing to make housecalls in the night."
 又師喜晝寢。弟子曰。宰予晝寢四字如何解。師曰。宰者。殺也。予者。我也。晝者。日中也。寢者。眠一覺也。又問如何貫串。曰。便殺我也說不得。到日中定要眠一覺。余又曾見宰予全節講章一篇。腐極可笑。并附此云。夫子設教于否壇之上。洙泗之濵。方進午饍。忽聞齁々鼾睡之聲。夫子驚而起曰。斯何人也。其回也與。回也不惰。殆非也。其由也與。由也好［51］勇亦非也。跡而視之。則其人姓宰。名予。向在言語之科者。夫子蹴之起。跪而責之曰。夏后氏以松。可雕也。殷人以柏。可雕也。周人以栗。亦可雕也。汝則朽木。不可雕也。數仞之墻可杇也。及肩之墻。亦可杇也。即鯉之面墻。猶可杇也汝則糞土之墻。不可杇也。吾將以絕孺悲之瑟絕汝。恐汝不悟。吾將以扣原壌之杖扣汝。恐汝不疼。必須以誅少正邜之刑誅汝方可以儆衆。而刀鋸又在魯庫之中。吾今［52］用何物誅汝乎。用何物誅汝乎。
 ＊＊讀別字｛｛吳語謂之白字｝｝
 有訓蒙者。首教大學。至於戲前王不忘句。竟如字讀之。主人曰。誤矣。冝讀作嗚呼。師從之。至冬間讀論語註。儺雖古禮而近於戲。乃讀作嗚呼。主人曰。又誤矣。此乃於戲也。師大怒。訴其友曰。這東家甚難理會。只於戲二字。年頭直與我拗到年尾。
@@ -110,33 +110,33 @@
 ［53］有主人以米數石。延蒙師。與之約。讀一別字。罰米一升。至散館。計一年所讀退却。僅存米二升。主人取置案上。師大失望。嘆曰。是何言興｛｛與｝｝是何言興。主人頋童子曰。連二升一併拿進。
 ＊＊讀破句
 冥王惡世多。庸師。不識句讀。誤人子弟。乃私行訪之。聞有教大學序者。念曰。大學之。書古之。大學所以教人之。即命鬼卒勾來。責之曰。汝何甚愛之字。我罰你［54］做一箇猪。其人臨行。囘頭曰做猪所不敢辭。願判生南方。王問其故。對曰。南方之。｛｛猪｝｝強于北方之｛｛猪｝｝。
-``reference to the Li Ji, Zhong Yong 10
+`reference to the Li Ji, Zhong Yong 10
 一說。二蒙師［死］。見冥王。一係讀別字者。一係讀破句者。勘畢。別字者罰為狗。破句者罰為猪。別字者請為母狗。王曰。何也。曰禮記云。臨財母狗得。臨難母狗免。做猪者。請生南方云々。
-``reference to the Li Ji, Qu Li I 3
+`reference to the Li Ji, Qu Li I 3
 ＊＊作祭文
-``**Writing a funerary text
+`**Writing a funerary text
 一人喪妻母。托館師做祭文。乃按古本誤抄祭妻文［55］與之。其人怪問。館師曰。此文是刋本定的。誰教他死錯了人。
-``Someone hired a schoolteacher to write a funerary text because his mother-in-law had passed away. The schoolteacher blindly copied from an old book the text for a late wife instead. When the man came back to complain, the schoolteacher said: "This text is a fixed one from a standard work - I'm not to blame if the wrong person died." 
+`Someone hired a schoolteacher to write a funerary text because his mother-in-law had passed away. The schoolteacher blindly copied from an old book the text for a late wife instead. When the man came back to complain, the schoolteacher said: "This text is a fixed one from a standard work - I'm not to blame if the wrong person died." 
 ＊＊屎字
-``**The word "shit"
+`**The word "shit"
 一學生問先生云。屎字如何寫。先生偶想不起。荅曰。分明在口［邊］。一時說不出來。
-``A student asked his teacher: "How do you write the word 'shit'?" The teacher had a mental block, and couldn't remember, saying: "That's funny, it was just on the tip of my tongue..."
+`A student asked his teacher: "How do you write the word 'shit'?" The teacher had a mental block, and couldn't remember, saying: "That's funny, it was just on the tip of my tongue..."
 ＊＊川字
 一蒙師止識一川字。見弟子呈書。欲尋。川字教之連揭數葉無有也。忽見三字。乃指而罵曰。我着處尋你［56］不見。你到睡在這裡。
 ＊＊講書
-``**Teaching
+`**Teaching
 一蒙師設教。有問大學之道如何講者。師佯醉曰。汝等偏揀醉時來問我歸與妻言之。妻曰。大學是書名。之道是書中的道理。師領之。明日謂門人曰。汝軰無知。昨日我醉。便來問我。今日偏不問。何也。汝昨所問何義對以大學之道。師如妻言釋之。弟子又問在明明德如何。師遽捧額曰。且位我還中酒在此。［57］
-``A bad teacher was in class, when a student asked: "Can you explain 'the way of the Great Learning'?" The teacher feigned drunkenness, and said: "You should ask me again when I'm sober." When he got home, he told his wife what happened, and she said: "The 'Great Learning' is the name of a book, and 'the way' refers to the main theme in that book." The teacher nodded. The next day he addressed his students: "You ignorant fools! When I was drunk yesterday you insisted on asking me questions, but today you are so quiet. You asked me yesterday about 'The way of Great Learning'..." and he proceeded to repeat what his wife had told him the night before. A student then asked: "What does it mean 'is to illustrate illustrious virtue?'" (the next line from the Great Learning.) The teacher suddenly clasped his head in his hands and said: "I feel that there's still a bit of wine in here." 
+`A bad teacher was in class, when a student asked: "Can you explain 'the way of the Great Learning'?" The teacher feigned drunkenness, and said: "You should ask me again when I'm sober." When he got home, he told his wife what happened, and she said: "The 'Great Learning' is the name of a book, and 'the way' refers to the main theme in that book." The teacher nodded. The next day he addressed his students: "You ignorant fools! When I was drunk yesterday you insisted on asking me questions, but today you are so quiet. You asked me yesterday about 'The way of Great Learning'..." and he proceeded to repeat what his wife had told him the night before. A student then asked: "What does it mean 'is to illustrate illustrious virtue?'" (the next line from the Great Learning.) The teacher suddenly clasped his head in his hands and said: "I feel that there's still a bit of wine in here." 
 ＊＊教法
-``**Teaching methods
+`**Teaching methods
 主人咎師不善教。師曰。汝欲我與令郎俱［死］耶。主人不解。師曰。我教法已盡矣。只除非要我鑚在令郎肚裡。我便悶殺。令郎便脹殺。
-``A householder complained that his teacher was not good at teaching. The teacher said: "You are wishing us both to die together, sir." The householder did not understand. The teacher said: "I have tried all my teaching methods. The only thing left is for me to bore into your belly. Then I would suffocate to death, and you would die from the distention."
+`A householder complained that his teacher was not good at teaching. The teacher said: "You are wishing us both to die together, sir." The householder did not understand. The teacher said: "I have tried all my teaching methods. The only thing left is for me to bore into your belly. Then I would suffocate to death, and you would die from the distention."
 ＊＊沒坐性
-``**No staying power
+`**No staying power
 夫婦夜卧。婦持夫𫝑問何物。夫曰先生也。婦曰既是先生。有館在此。請他一處。雲雨畢。明早。妻以二雞子煖酒。啖夫。々笑曰。我知你是謝先生了且問你先生［58］如何。妻曰。先生儘好。只嫌他沒坐性些。
-``A husband and wife were lying together at night. The wife laid her hand on her husband's crotch and asked what this was, and the husband replied: "This is your teacher." The wife said: "Since this is a teacher, there is a schoolhouse here, why doesn't he come inside." And there was much stormy thunder. The next morning, the wife prepared chicken and hot wine to feed her husband. He laughed and said: "I know you must be thanking your teacher. How was he?" The wife said: "My teacher was very good, it was just a pity that he did not have staying power."
+`A husband and wife were lying together at night. The wife laid her hand on her husband's crotch and asked what this was, and the husband replied: "This is your teacher." The wife said: "Since this is a teacher, there is a schoolhouse here, why doesn't he come inside." And there was much stormy thunder. The next morning, the wife prepared chicken and hot wine to feed her husband. He laughed and said: "I know you must be thanking your teacher. How was he?" The wife said: "My teacher was very good, it was just a pity that he did not have staying power."
 不但沒坐性。還怕嫌他罷軟。
-``Not just lacking in staying power - one fears that he was insufficiently firm. 
+`Not just lacking in staying power - one fears that he was insufficiently firm. 
 ＊＊又
 或遇處館者。呼曰。坐冷板櫈的來了。處館者不喻。其人曰。此做先生本等也。處館者曰。我一向不知。姑耐心一日。坐而騐之。既少坐。不勝其煩。曰趂熱＝上執＝走罷。
 吳欲貧家多火葬。故各門有燒人壇。掌火者即件作軰也。有兄弟二人。分燒二棺。嫡所焚屍。下體獨［59］不燼。訪之。彼是醫生。勞苦枯瘠。此則先生。坐冷板櫈者也。明日又有儒醫一棺至。弟懲前事。乃擇醫生。素無坐性。而醫則日々坐家者。
@@ -149,25 +149,25 @@
 餘姚師館雲問歸。親友共走候之。問彼中。風土。師極言富庶。且云。普照寺前所陳海錯無數。衆曰。汝魯喫［62］否。曰。我止眼飽而已。因其圍争䑛其眼。
 䑛眼回去。還有吮他舌頭的。
 ＊＊道學相罵
-``**Scholarly dispute
+`**Scholarly dispute
 兩人道詬于途。甲曰。你欺心。乙曰。你欺心。甲曰。你沒天理。乙曰。你沒天理。一道學聞之。謂門人曰。小子聼之。此講學也。門人問。相罵。何謂講學。曰。說心說理。非講學。而何。曰既講學。何為相罵。曰你看如今道學軰那箇是和睦的。［63］
-``Two people were arguing on the road. A: "You're lying!" B: "You are lying!" A: "You don't have any principles!" B: "You don't have any principles!" A dusty old scholar overheard this, and told his follower: "Listen to this carefully. This is called debate." The follower said: "No, they're arguing, not debating." The scholar said: "They speak about matters of the heart and of the head, how is this not debate?" The follower said: "If this is debate, then what would an argument sound like?" The scholar said: "Have you ever heard an even-tempered debate among scholars?" 
+`Two people were arguing on the road. A: "You're lying!" B: "You are lying!" A: "You don't have any principles!" B: "You don't have any principles!" A dusty old scholar overheard this, and told his follower: "Listen to this carefully. This is called debate." The follower said: "No, they're arguing, not debating." The scholar said: "They speak about matters of the heart and of the head, how is this not debate?" The follower said: "If this is debate, then what would an argument sound like?" The scholar said: "Have you ever heard an even-tempered debate among scholars?" 
 ＊＊問{nn/孔子/nn}
-``**Consulting Confucius
+`**Consulting Confucius
 兩道學先生議論不合。各自詫眞道學。而互詆為假。久之不决。乃共請正于{nn/孔子/nn}。孔子下階。鞠躬致敬而言曰。吾道甚大。何必相同。二位老先生皆眞正道學。丘素所欣仰。豈有偽哉。兩人各大喜而退。弟子曰。夫子何䛕之甚也。孔子曰。此軰人哄得他去勾了。惹他甚麼。
-``Two dusty old scholars had a long-running dispute - each considered his own interpretation to be the truth, and the other's to be false. Unable to resolve it between themselves, they decided to seek the opinion of Confucius. Confucius came down from on high, made the customary salute, and said: "My way is very broad; why need there be exact agreement? Both of you gentlemen have correct interpretations. I appreciate both; neither may be said to be false." They were both overjoyed and withdrew. One of the disciples asked Confucius: "Why did you have to flatter them so?" Confucius replied: "With people like these, just pander a bit to them and move on. Why encourage them?"
+`Two dusty old scholars had a long-running dispute - each considered his own interpretation to be the truth, and the other's to be false. Unable to resolve it between themselves, they decided to seek the opinion of Confucius. Confucius came down from on high, made the customary salute, and said: "My way is very broad; why need there be exact agreement? Both of you gentlemen have correct interpretations. I appreciate both; neither may be said to be false." They were both overjoyed and withdrew. One of the disciples asked Confucius: "Why did you have to flatter them so?" Confucius replied: "With people like these, just pander a bit to them and move on. Why encourage them?"
 ＊＊不問馬
-``**Don't ask about the horses
+`**Don't ask about the horses
 ［64］一道學先生在官時。馬廄焚。童僕共救滅之。回報。道學問之曰傷人乎。對曰幸不傷。但馬尾燒𨚫了此。道學大怒。責治之。或請其罪。曰豈不聞孔子不問馬。如何輙以馬對。
-``A dusty old scholar was in his study, when the stables caught fire. A servant boy helped to put it out, and reported the incident to his master. The scholar asked: "Was anyone hurt?" The boy replied: "Thankfully not, but the horse's tail was a bit singed." The scholar was extremely angry, and punished the boy. He asked what he had done wrong, and the scholar replied: "Don't you know that Confucius didn't ask about the horses? Why did you then tell me about the horses?"  (A reference to the Analects, Xiang Dang 12: 廄焚。子退朝，曰：「傷人乎？」不問馬。)
+`A dusty old scholar was in his study, when the stables caught fire. A servant boy helped to put it out, and reported the incident to his master. The scholar asked: "Was anyone hurt?" The boy replied: "Thankfully not, but the horse's tail was a bit singed." The scholar was extremely angry, and punished the boy. He asked what he had done wrong, and the scholar replied: "Don't you know that Confucius didn't ask about the horses? Why did you then tell me about the horses?"  (A reference to the Analects, Xiang Dang 12: 廄焚。子退朝，曰：「傷人乎？」不問馬。)
 ＊＊行房
-``**Having sex
+`**Having sex
 有道學先生行房。既去褻衣。拱手大言曰。吾非。為好色而然也為祖宗綿血食也。乃凸一下。又曰。吾非為好色而然也為朝廷添戶口也又凸一下。復曰。吾非［65］為好色而然也。為天帝廣化育也。又凸一下。或問弟四凸說甚麼。有識者曰。如此道學先生。只三凸便完了。還有甚說。
-``A dusty old scholar was having sex. After tossing aside his clothes, he folded his hands in a salute and declared: "I am not doing this from lustfulness, but to carry on the ancestral line," and then he thrust once. He then spoke again: "I am not doing this from lustfulness, but to make our empire bountiful," and he gave another thrust. And once again: "I am not doing this out of lustfulness, but to be fruitful and multiply," and he gave another thrust. A disciple asked: "What did he say before the fourth thrust?" A knowledgeable man replied: "What more is to be said? A dusty old scholar such as this would have been finished in three thrusts." 
+`A dusty old scholar was having sex. After tossing aside his clothes, he folded his hands in a salute and declared: "I am not doing this from lustfulness, but to carry on the ancestral line," and then he thrust once. He then spoke again: "I am not doing this from lustfulness, but to make our empire bountiful," and he gave another thrust. And once again: "I am not doing this out of lustfulness, but to be fruitful and multiply," and he gave another thrust. A disciple asked: "What did he say before the fourth thrust?" A knowledgeable man replied: "What more is to be said? A dusty old scholar such as this would have been finished in three thrusts." 
 ＊＊倭子作揖
 一士遇倭。避土穴中。為倭所覺。自稱道學。求免。倭曰。既道學先生。出來作揖。士曰。畏將軍之刀。請衘之。已又曰。畏將軍之刀鋒。請內衘之。倭信為寔然。如其言。士乃出。方揖。遽以手拍刀背。刀䧟其頰。倭衘刀謂士［66］曰。好箇道學。
 這道學還有此作用。可敬可敬。
 ＊＊女道學
-``**A woman literatus
+`**A woman literatus
 一儒家女新婚。交歡之際。陰道先生。此女忽穿衣下地。整容向末萬福。夫驚問故。荅曰僣先了。［67］
-``The daughter of a scholarly household was having sex on her bridal night, when she climaxed first. Thereupon she hurriedly threw on her clothes and went down on the ground. Composing herself, she curtsied to her husband. He was shocked, and asked her what she was doing. She replied: "I had presumed to come before you." 
+`The daughter of a scholarly household was having sex on her bridal night, when she climaxed first. Thereupon she hurriedly threw on her clothes and went down on the ground. Composing herself, she curtsied to her husband. He was shocked, and asked her what she was doing. She replied: "I had presumed to come before you." 

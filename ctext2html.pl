@@ -21,17 +21,21 @@ Extended with a number of additional tags:
 
 =over 8
 
-=item ``
+=item `
 
 (at beginning of line) Translation
 
-=item ``*
+=item `*
 
 (At beginning of line) Translation header 1
 
-=item ``**
+=item `**
 
 (At beginning of line) Translation header 2
+
+=item ``
+
+(At beginning of line) Whole-line editorial comment
 
 =item {nn/ ... /nn}
 
@@ -51,7 +55,7 @@ Page number in source text
 
 =item {ed/ ... /ed}
 
-Editorial comment not in source text
+In-line editorial comment (i.e. not in source text)
 
 =item {l/ ... /l <URL>}
 
@@ -86,9 +90,10 @@ Copyright (c) 2016, Brandon Seah (kb.seah@gmail.com)
 # ●=...= Missing char, with description of missing character between the = signs
 
 # Extended markup:
-# `` (at start of line) - translation
-# ``* - Translation header 1
-# ``** - Translation header 2
+# ` (at start of line) - translation
+# `* - Translation header 1
+# `** - Translation header 2
+# `` - Editorial comment (whole line)
 # [] - Enclose a variant character
 # {xyz/ ... /xyz} - Semantic markup; xyz is a code for the semantic category, should be ASCII word char.
 # They may not span a linebreak!
@@ -98,7 +103,7 @@ Copyright (c) 2016, Brandon Seah (kb.seah@gmail.com)
 # dd - dates
 # pg - page number in source text
 # v - graphical variant character
-# ed - editorial comment
+# ed - inline editorial comment
 
 use strict;
 use warnings;
@@ -150,10 +155,10 @@ while (<IN>) {
     }
     my $line = $_;
     $line = decode_utf8($line);
-    $line = ConvertPunc($line) unless $line =~ m/^``/;
+    $line = ConvertPunc($line) unless $line =~ m/^`/;
 
     # Catch missing text - has to be done first because HTML tags have "=" sign
-    $line = ConvertMissingText($line) unless $line =~ m/^``/;
+    $line = ConvertMissingText($line) unless $line =~ m/^`/;
 
     # Catch headers
     if ($line =~ m/^\*\*(.*)/) {
@@ -169,16 +174,20 @@ while (<IN>) {
         $line = "<h1 id=\"h1_$id\">".$1."</h1>";
         $current_header{"h1"} = "h1_$id"; # update current h1 header
         #print $current_header{"h1"}."\n";
-    } elsif ($line =~ m/^``(.*)/) { # Translation lines
-        my $content = $1;
-        if ($line =~ m/^``\*\*(.*)/) {
-            $line = "<div class=\"translation\"><h2>".$1."</h2></div>";
-        } elsif ($line =~ m/^``\*(.*)/) {
-            $line = "<div class=\"translation\"><h1>".$1."</h1></div>";
-        } else {
-            $line = "<div class=\"translation\"><p>".$content."</p></div>";
+    } elsif ($line =~ m/^`(.*)/) { 
+        if ($line =~ m/^``(.*)/) { # Whole-line editorial commentary
+            my $content = $1;
+            $line = "<div class=\"comment\"><p>".$content."</p></div>";
+        } else { # Translation lines
+            my $content = $1;
+            if ($line =~ m/^`\*\*([^`]*)/) {
+                $line = "<div class=\"translation\"><h2>".$1."</h2></div>";
+            } elsif ($line =~ m/^`\*([^`]*)/) {
+                $line = "<div class=\"translation\"><h1>".$1."</h1></div>";
+            } else {
+                $line = "<div class=\"translation\"><p>".$content."</p></div>";
+            }
         }
-        
     } else {
         $line = "<p>".$line."</p>";
     }
