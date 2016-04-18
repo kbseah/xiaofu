@@ -1,10 +1,10 @@
 body {
-    font-family:serif, STSong, FangSong, "AR PL UKai CN";
     margin: auto;
     width:600px;
 }
 
 p {
+    font-family:serif, STSong, FangSong, "AR PL UKai CN";
     font-size: 14pt;
     text-align:left;
 }
