@@ -4,12 +4,13 @@ body {
 }
 
 p {
-    font-family:serif, STSong, FangSong, "AR PL UKai CN";
+    font-family:serif, FangSong, STFangsong, "AR PL UMing CN";
     font-size: 14pt;
     text-align:left;
 }
 
 h1 {
+    font-family:serif, FangSong, STFangsong, "AR PL UMing CN";
     font-size:24pt;
     text-align:center;
 }
@@ -20,11 +21,13 @@ h1 {
 }
 
 h2 {
+    font-family:serif, FangSong, STFangsong, "AR PL UMing CN";
     font-size:20pt;
     text-align:center;
 }
 
 h3.contents {
+    font-family:serif, FangSong, STFangsong, "AR PL UMing CN";
     font-size:18pt;
     text-align:center;
     display:block;
@@ -66,7 +69,7 @@ h3.contents {
 }
 
 .translation {
-    font-family:serif;
+    font-family: serif;
     background-color: rgb(255,255,240);
     border-style: none;
     right:0px;
