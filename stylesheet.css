@@ -9,6 +9,12 @@ p {
     text-align:left;
 }
 
+li {
+    font-family:serif, FangSong, STFangsong, "AR PL UMing CN";
+    font-size: 14pt;
+    text-align:left;
+}
+
 h1 {
     font-family:serif, FangSong, STFangsong, "AR PL UMing CN";
     font-size:24pt;
