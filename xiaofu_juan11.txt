@@ -5,7 +5,7 @@
 ＊＊訟失牛
 `**The stolen cow
 有訟失牛于官者。官問幾時失的。荅以明日。吏不覺失笑。官怒。指吏曰。是你偷在那裡。吏乃灑兩袖曰。憑老爺搜。
-`A man came before a magistrate to report that his cow had been stolen. The magistrate asked him when the cow was stolen, and he answered: "Tomorrow." A court subordinate could not help but laugh. The magistrate was angry, and pointed at the subordinate, saying: "Was it you that stole it?" The subordinate flung out both his sleeves and said: "You may search me, milord." 
+`A man came before a magistrate to report that his cow had been stolen. The magistrate asked him when the cow was stolen, and he answered: "Tomorrow." A court subordinate could not help but laugh. The magistrate was angry, and pointed at the subordinate, saying: "Was it you that stole it?" The subordinate flung out both his sleeves and said: "You may search me, milord."
 ＊＊揵踢
 `**Shuttlecock
 一童子弄揵子。偶踢下井。乃俯視井。對影哭曰。還了［125］我。父問之。訴曰。揵子為井中兒所［収］。父亦臨井。見己影謂曰。汝家兒子要踢揵子。我家兒子難道不要的。
@@ -13,7 +13,7 @@
 ＊＊行令
 `**Toast
 一人出令曰。春雨如膏。或疑為糕也。曰。夏雨如饅頭。或又疑為夏禹也。曰。周文王像塔餅。
-`Someone was making a toast, and said: "The spring rains are like a balm (gao)." Someone heard balm as cake (gao), and said: "Then the summer rains are like a bun." Someone else heard summer rain (xiayu) as King Yu of Xia, and said: "King Wen of Zhou was like a wedding cake." 
+`Someone was making a toast, and said: "The spring rains are like a balm (gao)." Someone heard balm as cake (gao), and said: "Then the summer rains are like a bun." Someone else heard summer rain (xiayu) as King Yu of Xia, and said: "King Wen of Zhou was like a wedding cake."
 ``Phonetic wordplay
 ＊＊又
 衆至一家祝壽。飲酒間。行令各說壽字一句。一人喊云。壽天莫非命。衆嘩曰。是何言也。以大鐘罰之。即曰［126］該［死］該［死］。
@@ -86,12 +86,13 @@
 有戴破帽破網者。途中見人。呼破帽子換銅錢。急取帽袖之。再呼破網巾換銅錢。復急脫網巾袖之。又呼亂頭髮換引線。乃大怒曰。你這人無禮。忒尋得我要緊。
 ＊＊進士弟
 一進士之弟頗橫。怨家罵曰。汝兄自登黃甲。初何關［142］汝。荅曰。不見牌額上。寫進士弟｛｛第｝｝耶。
+``Phonetic wordplay
 ＊＊又
 有懸進士第額于大門者。一［鄉］人見之。沉吟曰。齋扁只兩字。如何有三字。乃問人曰。阿哥。借問一聲。此三字是齋々扁。還是齋扁々。
 ＊＊梅花
 `**Plum blossoms
 有不落欵梅花一幅。或見之。極賛其真。人問曰。你曉得甚人画的。只管賛他是真蹟。荅曰。{nn/張敞/nn}。［143］
-`There was a painting of plum blossoms (mei) whose painter left no signature. Those who saw it all praised its verisimilitude. One asked, "who do you think painted this? I only care to praise him as a true treasure." Another replied, "Zhang Chang." 
+`There was a painting of plum blossoms (mei) whose painter left no signature. Those who saw it all praised its verisimilitude. One asked, "who do you think painted this? I only care to praise him as a true treasure." Another replied, "Zhang Chang."
 ``Phonetic wordplay. Zhang Chang was an official in the Han era who was known for painting on his wife's eyebrows (also mei) for her, a story of conjugal affection.
 ＊＊不識貨
 徽人有開典鋪而不識貨者。一人以单皮皷來當。喝云。皮鑼一面。當銀五分。有以笙來當者。云。紫竹酒壺一把。當銀五分。有當笛者。云。絲緝火通一枝。當銀一分。後有持了事帕來當者。云。虎貍斑汗巾一條。當銀三分。小郎問曰。朝奉。要這物何用。乃云。留他抹々嘴也是好的。
