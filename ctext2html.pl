@@ -67,7 +67,7 @@ Hyperlink; note space before the URL begins
 
 Copyright (c) 2016, Brandon Seah (kb.seah@gmail.com)
 
-=cut 
+=cut
 
 
 # To do:
@@ -115,6 +115,7 @@ use Pod::Usage;
 
 my $filein;
 my $fileout;
+my $ctext_scan_url;
 
 if (! @ARGV) {
     pod2usage(-exitstatus=>2,-verbose=>2);
@@ -123,9 +124,32 @@ if (! @ARGV) {
 GetOptions (
     "input|i=s" => \$filein,
     "output|o=s" => \$fileout,
+    "ctext_scan_url=s" => \$ctext_scan_url,
     "help|h" => sub { pod2usage(-existatus=>2, verbose=>2); },
     "man|m" => sub { pod2usage(-existatus=>0, verbose=>2); }
 ) or pod2usage(-message=>"Incorrect input options",-existatus=>2, verbose=>2);
+
+=head1 ARGUMENTS
+
+=over 8
+
+=item --input|-i I<FILE>
+
+=item --output|-o I<FILE>
+
+=item --ctext_scan_url I<URL>
+
+URL prefix for digital base text, used to convert embedded page numbers to hyperlinks.
+
+E.g. "https://ctext.org/library.pl?if=en&file=92728&page="
+
+=item --help|-h
+
+=item --man|-m
+
+=back
+
+=cut
 
 # Hashes for header lines
 my %h1hash;
@@ -174,7 +198,7 @@ while (<IN>) {
         $line = "<h1 id=\"h1_$id\">".$1."</h1>";
         $current_header{"h1"} = "h1_$id"; # update current h1 header
         #print $current_header{"h1"}."\n";
-    } elsif ($line =~ m/^`(.*)/) { 
+    } elsif ($line =~ m/^`(.*)/) {
         if ($line =~ m/^``(.*)/) { # Whole-line editorial commentary
             my $content = $1;
             $line = "<div class=\"comment\"><p>".$content."</p></div>";
@@ -191,7 +215,7 @@ while (<IN>) {
     } else {
         $line = "<p>".$line."</p>";
     }
-    
+
     # The following not bracketed in else condition - headers can also be semantically tagged
 
     # Convert semantic tags (which are indexed)
@@ -209,19 +233,22 @@ while (<IN>) {
         # Replace the markup tags with html span tags in an evaluated regex
         $line =~ s/\{$tag\/(.*?)\/$tag\}/$p1.$tagid{$tag}++.$p2.$1.$p3/ge;
     }
-    
+
     # Convert hyperlinks
     my $p1 = "<a href=\"";
     my $p2 = "\">";
     my $p3 = "</a>";
     $line =~ s/\{l\/(.*?)\/l\s+(.*?)\}/$p1.$2.$p2.$1.$p3/ge;
-    
+
+    # Convert page numbers to hyperlinks if defined
+    $line = ConvertPageLinks($line, $ctext_scan_url) if defined $ctext_scan_url;
+
     # Convert remaining tag types (must be done in order, but not indexed)
     $line = ConvertMarginalNotes($line);
     $line = ConvertSmallerText($line);
     $line = ConvertLargerText($line);
-    
-    
+
+
     # Store line
     push @output, $line;
 }
@@ -305,7 +332,7 @@ ENDHTML
 }
 
 print OUT <<ENDHTML;
-<p class="credit">Translations copyright (c) 2016, Brandon Seah.</p>
+<p class="credit">Translations copyright (c) 2016-2018 Brandon Seah.</p>
 </body>
 </html>
 ENDHTML
@@ -385,5 +412,14 @@ sub ConvertMissingText {
     my $p2 = "</span>";
     # Replace the markup tags with html span tags in an evaluated regex
     $inline =~ s/=(.*?)=/$p1.$1.$p2/ge;
+    return ($inline);
+}
+
+sub ConvertPageLinks {
+    my ($inline, $urlprefix) = @_;
+    my $p1 = '<a class="superscript" href="'.$urlprefix;
+    my $p2 = '">';
+    my $p3 = '</a>';
+    $inline =~ s/\{pp\/(\d+)\/pp\}/$p1.$1.$p2.$1.$p3/ge;
     return ($inline);
 }
